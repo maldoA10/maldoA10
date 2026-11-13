@@ -178,8 +178,8 @@ A team that receives client projects and delivers them under the Grownet name. I
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maldoA10&show_icons=true&include_all_commits=true&hide_border=false&border_color=39ff14&bg_color=0d1117&title_color=39ff14&icon_color=00e5ff&text_color=c9d1d9&ring_color=39ff14" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldoA10&layout=compact&langs_count=8&hide_border=false&border_color=39ff14&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Most used languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=maldoA10&show_icons=true&include_all_commits=true&hide_border=false&border_color=39ff14&bg_color=0d1117&title_color=39ff14&icon_color=00e5ff&text_color=c9d1d9&ring_color=39ff14" alt="GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maldoA10&layout=compact&langs_count=8&hide_border=false&border_color=39ff14&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Most used languages" height="165"/>
 
 <br/>
 
